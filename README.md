@@ -1,6 +1,6 @@
 # IOS101 Prework - *Color Change App*
 
-Submitted by: **Ngoc Duyen Nguyen**
+Submitted by: **Ngoc Phuong Duyen Nguyen**
 
 **Color Change App** is an app that let users change random color of the background and the texts. 
 
@@ -54,7 +54,7 @@ GIF created with LICEcap v1.32 on macOS Ventura
 
 ## License
 
-    Copyright [2023] [Ngoc Duyen Nguyen]
+    Copyright [2023] [Ngoc Phuong Duyen Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
